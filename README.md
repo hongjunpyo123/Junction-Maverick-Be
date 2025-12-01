@@ -37,19 +37,16 @@
 
 - Instagram: [@Yunjeong Kim](https://www.instagram.com/yyunjoyy?igsh=MWR5MmxtMXBod2k1aw==)
 
----
 
 ### Designer
 
 - Instagram: [@xxmim00](https://www.instagram.com/xxmim00?igsh=dHN3OWNjZzlidWNw)
 
----
 
 ### Frontend Developer
 
 - GitHub: [@pyb0501](https://github.com/pyb0501)
 
----
 
 ### Backend Developer
 
